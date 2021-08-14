@@ -17,7 +17,7 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0"
+        app:layout_constraintVertical_bias="1.0"
         app:srcCompat="@drawable/backround" />
 
     <TextView
@@ -26,7 +26,7 @@
         android:layout_height="60dp"
         android:layout_marginStart="20dp"
         android:layout_marginLeft="20dp"
-        android:layout_marginTop="60dp"
+        android:layout_marginTop="32dp"
         android:layout_marginEnd="20dp"
         android:layout_marginRight="20dp"
         android:text="@string/name"
@@ -43,15 +43,14 @@
         android:layout_height="94dp"
         android:layout_marginStart="20dp"
         android:layout_marginLeft="20dp"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="60dp"
         android:layout_marginEnd="20dp"
         android:layout_marginRight="20dp"
-        android:text="@string/adventure"
+        android:text="@string/novel"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.946"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/txt_name"
-        />
+        app:layout_constraintTop_toBottomOf="@+id/txt_name" />
 
     <Button
         android:id="@+id/btn_1"
@@ -61,7 +60,7 @@
         android:layout_marginLeft="20dp"
         android:layout_marginEnd="20dp"
         android:layout_marginRight="20dp"
-        android:text="@string/novel"
+        android:text="@string/adventure"
         app:layout_constraintBaseline_toBaselineOf="@+id/btn_2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.095"
