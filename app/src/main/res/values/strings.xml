@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BOOKLAND</string>
+    <string name="name">Home</string>
+    <string name="novel">NOVEL</string>
+    <string name="adventure">ADVENTURE</string>
+    <string name="education">EDUCATION</string>
+    <string name="biography">BIOGRAPHY</string>
+    <string name="children">CHILDREN</string>
+    <string name="magazines">MAGAZINES</string>
+</resources>
