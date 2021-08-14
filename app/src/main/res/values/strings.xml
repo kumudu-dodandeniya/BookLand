@@ -7,4 +7,13 @@
     <string name="biography">BIOGRAPHY</string>
     <string name="children">CHILDREN</string>
     <string name="magazines">MAGAZINES</string>
+
+    <string name="adventure_book">ADVRNTURE</string>
+    <string name="search">Search</string>
+    <string name="button1_view">VIEW</string>
+    <string name="button2_view">VIEW</string>
+    <string name="button3_view">VIEW</string>
+    <string name="button4_view">VIEW</string>
+    <string name="button5_view">VIEW</string>
+    <string name="button6_view">VIEW</string>
 </resources>
