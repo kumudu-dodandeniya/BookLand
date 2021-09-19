@@ -27,12 +27,28 @@
         app:srcCompat="@drawable/book4" />
 
     <Button
-        android:id="@+id/edit_btn_image"
+        android:id="@+id/edit_btn_image1"
         android:layout_width="134dp"
         android:layout_height="55dp"
         android:layout_marginStart="30dp"
         android:layout_marginLeft="30dp"
         android:layout_marginTop="96dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginRight="30dp"
+        android:text="@string/Add_Image"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/imageView4"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <Button
+        android:id="@+id/edit_btn_image2"
+        android:layout_width="134dp"
+        android:layout_height="55dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="176dp"
         android:layout_marginEnd="30dp"
         android:layout_marginRight="30dp"
         android:text="@string/Add_Image"
