@@ -126,6 +126,17 @@
         app:layout_constraintTop_toBottomOf="@+id/txt_descrip" />
 
     <Button
+        android:id="@+id/btn_buyNow1"
+        android:layout_width="120dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="92dp"
+        android:text="@string/button_buy"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txt_descrip" />
+
+    <Button
         android:id="@+id/btb_cart"
         android:layout_width="136dp"
         android:layout_height="49dp"
