@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "929952176480",
+    "project_id": "bookland-14047",
+    "storage_bucket": "bookland-14047.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929952176480:android:242618c7c26eb6355ba605",
+        "android_client_info": {
+          "package_name": "com.example.mobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929952176480-o09blh5jvnm0octjk31k87bcrpk4jhma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobileapp",
+            "certificate_hash": "76cd99748e1cd2fe9623dbf79d93f71a7e8d7381"
+          }
+        },
+        {
+          "client_id": "929952176480-9a1l5sdpvus8bvpc269fn9nbjbps4st1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-kmceZ2PiSSWTdeKCDQ9jeBx9RV3ZuAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929952176480-9a1l5sdpvus8bvpc269fn9nbjbps4st1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
