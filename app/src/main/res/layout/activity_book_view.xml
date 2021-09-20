@@ -136,4 +136,16 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/txt_descrip" />
 
+
+    <Button
+        android:id="@+id/btb_cart1"
+        android:layout_width="136dp"
+        android:layout_height="49dp"
+        android:layout_marginTop="84dp"
+        android:layout_marginEnd="48dp"
+        android:layout_marginRight="48dp"
+        android:text="@string/button_cart"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txt_descrip" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
